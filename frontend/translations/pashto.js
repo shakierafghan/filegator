@@ -74,6 +74,8 @@ const data = {
   'Search': 'لټون کول',
   'Download permission': 'داونلوډ',
   'Guest': 'ميلمه',
+  'search placeholder': 'د لټون لپاره د فايل او يا فولډر نوم وليکئ',
+
 }
 
 export default data
